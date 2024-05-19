@@ -38,8 +38,12 @@ public class LogToDbService : ILogToDbService
         {
             var res = await _repository.GetLastAsync<RequestLogEntity>();
             if (res != null)
+            {
                 res.Results =
                     _mapper.Map<List<ResultsLog>>(_repository.Get<ResultsLog>(e => e.RequestLogEntityId == res.Id));
+                res.Results = res.Results.OrderByDescending(n => n.VowelsCount).ToList();
+            }
+
             return _mapper.Map<RequestLogBaseModel>(res);
         }
         catch (Exception e)
