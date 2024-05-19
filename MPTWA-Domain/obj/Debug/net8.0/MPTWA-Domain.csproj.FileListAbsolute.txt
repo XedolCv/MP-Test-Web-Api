@@ -1,0 +1,14 @@
+C:\Users\7solo\RiderProjects\MP-Test-Web-Api\MPTWA-Domain\bin\Debug\net8.0\MPTWA-Domain.deps.json
+C:\Users\7solo\RiderProjects\MP-Test-Web-Api\MPTWA-Domain\bin\Debug\net8.0\MPTWA-Domain.dll
+C:\Users\7solo\RiderProjects\MP-Test-Web-Api\MPTWA-Domain\bin\Debug\net8.0\MPTWA-Domain.pdb
+C:\Users\7solo\RiderProjects\MP-Test-Web-Api\MPTWA-Domain\obj\Debug\net8.0\MPTWA-Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\7solo\RiderProjects\MP-Test-Web-Api\MPTWA-Domain\obj\Debug\net8.0\MPTWA-Domain.AssemblyInfoInputs.cache
+C:\Users\7solo\RiderProjects\MP-Test-Web-Api\MPTWA-Domain\obj\Debug\net8.0\MPTWA-Domain.AssemblyInfo.cs
+C:\Users\7solo\RiderProjects\MP-Test-Web-Api\MPTWA-Domain\obj\Debug\net8.0\MPTWA-Domain.csproj.CoreCompileInputs.cache
+C:\Users\7solo\RiderProjects\MP-Test-Web-Api\MPTWA-Domain\obj\Debug\net8.0\MPTWA-Domain.dll
+C:\Users\7solo\RiderProjects\MP-Test-Web-Api\MPTWA-Domain\obj\Debug\net8.0\refint\MPTWA-Domain.dll
+C:\Users\7solo\RiderProjects\MP-Test-Web-Api\MPTWA-Domain\obj\Debug\net8.0\MPTWA-Domain.pdb
+C:\Users\7solo\RiderProjects\MP-Test-Web-Api\MPTWA-Domain\obj\Debug\net8.0\ref\MPTWA-Domain.dll
+C:\Users\7solo\RiderProjects\MP-Test-Web-Api\MPTWA-Domain\obj\Debug\net8.0\MPTWA-Domain.csproj.AssemblyReference.cache
+C:\Users\7solo\RiderProjects\MP-Test-Web-Api\MPTWA-Domain\bin\Debug\net8.0\MPTWA-Domain.runtimeconfig.json
+C:\Users\7solo\RiderProjects\MP-Test-Web-Api\MPTWA-Domain\obj\Debug\net8.0\MPTWA-Domain.genruntimeconfig.cache
