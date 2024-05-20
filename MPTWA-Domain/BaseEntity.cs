@@ -1,6 +1,6 @@
 ﻿namespace MPTWA_Domain;
 
-public class BaseEntity
+public abstract class BaseEntity
 {
     public Guid Id { get; set; }
     public DateTime CreateTime { get; set; }
